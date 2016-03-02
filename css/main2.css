@@ -1,0 +1,49 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+html
+{
+	height: 100%;
+}
+
+body
+{
+	height: 100%;	
+}
+
+
+.titre
+{
+	color: silver;
+	text-align: center;
+	color: white;
+	height: 80px;
+	width: 100%;
+	background-color: #39424D;
+	padding-bottom: 70px;
+	box-sizing: border-box;
+	border-bottom: 2px solid black;
+}
+
+.contain
+{
+	position: relative;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+.footer
+{
+	color: white;
+	position: absolute;
+	text-align: center;
+	background-color: #39424D;
+	height: 50px;
+	width: 100%;
+	bottom: 0;
+	box-sizing: border-box;
+	border-top: 2px solid black;
+}

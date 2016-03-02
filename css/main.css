@@ -1,0 +1,46 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html,body
+{
+    color: #222;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    box-sizing: border-box;
+    border-bottom: 10px #060606 solid;
+}
+.header, .footer
+{
+    background-color: #010101  ;
+    height: 90px;
+    width: 100%;
+}
+
+.formulaire
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 20px ;
+    float: right;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border: 2px solid #ACACAC;
+}
+
+.section2
+{
+    height: 500px;
+    width: 100%;
+    background-color: #FEFEFE;
+}
+
+footer
+{
+    border-top: 10px #060606 solid;
+    text-align: center;
+}
